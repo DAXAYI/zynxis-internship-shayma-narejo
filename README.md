@@ -7,7 +7,7 @@ Mobile App Development
 
 ## Weekly Progress Log
 
-- Week 1:
-Created the GitHub repository.
-Added the Week_1 folder and initial project files.
-Created the main README.md with personal information and progress log.
+Week 1:
+- Created the GitHub repository.
+- Added the Week_1 folder and initial project files.
+- Created the main README.md with personal information and progress log.
