@@ -9,5 +9,5 @@ Mobile App Development
 
 Week 1:
 - Created the GitHub repository.
-- Added the Week_1 folder and initial project files.
+- Added the Week_1 to Week_8 folders.
 - Created the main README.md with personal information and progress log.
