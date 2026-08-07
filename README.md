@@ -12,8 +12,7 @@ Week 1:
 - Added the Week_1 to Week_8 folders.
 - Created the main README.md with personal information and progress log.
 - Installed the Flutter SDK and Android Studio.
-- Set up the development environment and verified the installation.
-- Configured an Android emulator for testing.
+- Set up and configured an Android emulator.
 - Created the Zynxis Welcome App project.
 - Added a custom Zynxis logo to the application.
 - Included a short company bio on the welcome screen.
