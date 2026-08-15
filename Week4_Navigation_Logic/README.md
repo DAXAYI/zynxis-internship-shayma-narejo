@@ -77,10 +77,3 @@ lib/
    ```bash
    flutter run
    ```
-
-## Deliverables
-
-- 📊 **Navigation Flow Diagram** — [`navigation_flow_diagram.pdf`](./docs/navigation_flow_diagram.pdf) — visual map of every screen transition and the data passed between them.
-- 📄 **Code Logic PDF** — [`code_logic.pdf`](./docs/code_logic.pdf) — a written breakdown of the navigation and state logic in each file.
-
-*(Both files are included in the `/docs` folder of this repo.)*
