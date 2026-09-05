@@ -45,4 +45,8 @@ Created a three-page navigation flow consisting of a Splash Screen, Login Page, 
 
 Key Learning: Flutter Navigator, MaterialPageRoute, pushReplacement, screen transitions, constructor-based data passing, input validation, and application navigation architecture.
 
-These logs describe what you actually built rather than making them sound artificially complex, which is better for an internship record.
+Week 5 — State Management & API Integration (REST)
+
+This week, I implemented state management using Provider and integrated a live REST API into the Flutter application. I developed a Counter & Theme Switcher that maintains shared counter and theme states while navigating between tabs. I also created a Zynxis Projects screen that fetches live data through HTTP requests and displays it dynamically in a ListView with network images and descriptions. I implemented loading indicators, JSON processing, error handling, request timeouts, and a Retry function for failed API requests.
+
+Key Learning: Provider, ChangeNotifier, shared state, REST APIs, HTTP GET requests, JSON decoding, FutureBuilder, ListView, asynchronous data fetching, and error handling.
