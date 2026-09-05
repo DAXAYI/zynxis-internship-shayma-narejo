@@ -27,7 +27,7 @@ Developed three Flutter UI screens for the Zynxis application: Home, About, and 
 
 Key Learning: Flutter layouts, responsive UI design, reusable components, dark-theme styling, and multi-file project organization.
 
-Week 3 — Interactions & Task Manager
+Week 3: Interactions & Task Manager
 
 Task: Build an interactive Task Manager screen.
 
@@ -36,7 +36,7 @@ Designed and developed a functional Task Manager screen in Flutter. Implemented 
 
 Key Learning: Stateful widgets, setState(), user input handling, dynamic lists, checkboxes, sliders, dialogs, Snackbars, validation, and interactive button functionality.
 
-Week 4 — Multi-Page Navigation & Data Passing
+Week 4: Multi-Page Navigation & Data Passing
 
 Task: Implement Splash Screen → Login Page → Dashboard navigation.
 
@@ -45,7 +45,7 @@ Created a three-page navigation flow consisting of a Splash Screen, Login Page, 
 
 Key Learning: Flutter Navigator, MaterialPageRoute, pushReplacement, screen transitions, constructor-based data passing, input validation, and application navigation architecture.
 
-Week 5 — State Management & API Integration (REST)
+Week 5: State Management & API Integration (REST)
 
 This week, I implemented state management using Provider and integrated a live REST API into the Flutter application. I developed a Counter & Theme Switcher that maintains shared counter and theme states while navigating between tabs. I also created a Zynxis Projects screen that fetches live data through HTTP requests and displays it dynamically in a ListView with network images and descriptions. I implemented loading indicators, JSON processing, error handling, request timeouts, and a Retry function for failed API requests.
 
