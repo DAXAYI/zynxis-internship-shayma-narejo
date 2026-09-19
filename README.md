@@ -50,3 +50,7 @@ Week 5: State Management & API Integration (REST)
 This week, I implemented state management using Provider and integrated a live REST API into the Flutter application. I developed a Counter & Theme Switcher that maintains shared counter and theme states while navigating between tabs. I also created a Zynxis Projects screen that fetches live data through HTTP requests and displays it dynamically in a ListView with network images and descriptions. I implemented loading indicators, JSON processing, error handling, request timeouts, and a Retry function for failed API requests.
 
 Key Learning: Provider, ChangeNotifier, shared state, REST APIs, HTTP GET requests, JSON decoding, FutureBuilder, ListView, asynchronous data fetching, and error handling.
+
+Week 6 & Final Capstone Summary
+
+Developed the Zynxis Intern Portal using Flutter and Dart, integrating Firebase Cloud Firestore for persistent Favorites storage, REST API task lists, an intern profile, and a weekly report submission form connected to a mock backend. Implemented form validation, error handling, and navigation. Successfully built and tested the Android release APK and prepared the final project documentation.
